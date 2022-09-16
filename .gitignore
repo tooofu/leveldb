@@ -9,3 +9,5 @@ out/
 
 # Thrid party
 third_party/
+
+compile_commands.json
