@@ -6,3 +6,6 @@
 # Build directory.
 build/
 out/
+
+# Thrid party
+third_party/
