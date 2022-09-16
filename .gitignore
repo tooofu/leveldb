@@ -2,6 +2,8 @@
 *.sw*
 .vscode
 .DS_Store
+compile_commands.json
+.cache/
 
 # Build directory.
 build/
@@ -10,4 +12,3 @@ out/
 # Thrid party
 third_party/
 
-compile_commands.json
